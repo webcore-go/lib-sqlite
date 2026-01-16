@@ -3,7 +3,7 @@ package mysql
 import (
 	"github.com/semanggilab/webcore-go/app/config"
 	"github.com/semanggilab/webcore-go/app/loader"
-	"github.com/semanggilab/webcore-go/lib/sql"
+	sql "github.com/webcore-go/lib-sql"
 	"gorm.io/driver/sqlite"
 )
 
