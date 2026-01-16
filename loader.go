@@ -1,9 +1,9 @@
 package mysql
 
 import (
-	"github.com/semanggilab/webcore-go/app/config"
-	"github.com/semanggilab/webcore-go/app/loader"
 	sql "github.com/webcore-go/lib-sql"
+	"github.com/webcore-go/webcore/app/config"
+	"github.com/webcore-go/webcore/app/loader"
 	"gorm.io/driver/sqlite"
 )
 

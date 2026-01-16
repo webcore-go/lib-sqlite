@@ -3,8 +3,8 @@ module github.com/webcore-go/lib-sqlite
 go 1.24.0
 
 require (
-	github.com/semanggilab/webcore-go v0.1.2
-	github.com/webcore-go/lib-sql v0.1.1
+	github.com/webcore-go/lib-sql v0.1.2
+	github.com/webcore-go/webcore v0.0.1
 	gorm.io/driver/sqlite v1.6.0
 )
 
@@ -28,6 +28,7 @@ require (
 	github.com/rivo/uniseg v0.2.0 // indirect
 	github.com/sagikazarmark/locafero v0.3.0 // indirect
 	github.com/sagikazarmark/slog-shim v0.1.0 // indirect
+	github.com/semanggilab/webcore-go v0.1.2 // indirect
 	github.com/sourcegraph/conc v0.3.0 // indirect
 	github.com/spf13/afero v1.10.0 // indirect
 	github.com/spf13/cast v1.5.1 // indirect

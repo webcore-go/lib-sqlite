@@ -214,6 +214,10 @@ github.com/valyala/tcplisten v1.0.0 h1:rBHj/Xf+E1tRGZyWIWwJDiRY0zc1Js+CV5DqwacVS
 github.com/valyala/tcplisten v1.0.0/go.mod h1:T0xQ8SeCZGxckz9qRXTfG43PvQ/mcWh7FwZEA7Ioqkc=
 github.com/webcore-go/lib-sql v0.1.1 h1:E4LOT1fwKgL+2Zd6TTQhbytJ+YxKTQPsENFp9/ebFlY=
 github.com/webcore-go/lib-sql v0.1.1/go.mod h1:Q8TYQascBpSZJY7bHvRFJrWCI+cRFNlbH9lTbdta6AU=
+github.com/webcore-go/lib-sql v0.1.2 h1:rtkzICd5lCta8/lTB/Q6UPanyYeFipqqrWPye+motek=
+github.com/webcore-go/lib-sql v0.1.2/go.mod h1:e8AXkDR3Ecexk1wPAgUhE+INDu0kMlrxjCTcxs/Fwo4=
+github.com/webcore-go/webcore v0.0.1 h1:JJs4yn6CaC3jv3VotgGuSARjDq82qJczoCcivcxEWeg=
+github.com/webcore-go/webcore v0.0.1/go.mod h1:3ZA60tdmVzPLCqYg8O8BfPvg0CYMSHDYFDPgor7n/Us=
 github.com/yuin/goldmark v1.1.25/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 github.com/yuin/goldmark v1.1.27/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 github.com/yuin/goldmark v1.1.32/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
