@@ -8,8 +8,8 @@ import (
 
 	"github.com/uptrace/bun/dialect/sqlitedialect"
 	libsql "github.com/webcore-go/lib-sql"
-	"github.com/webcore-go/webcore/app/config"
-	"github.com/webcore-go/webcore/app/loader"
+	"github.com/webcore-go/webcore/infra/config"
+	"github.com/webcore-go/webcore/port"
 
 	_ "github.com/mattn/go-sqlite3"
 )
@@ -26,7 +26,7 @@ func (a *SqliteLoader) Name() string {
 	return a.name
 }
 
-func (l *SqliteLoader) Init(args ...any) (loader.Library, error) {
+func (l *SqliteLoader) Init(args ...any) (port.Library, error) {
 	config := args[1].(config.DatabaseConfig)
 	dsn := libsql.BuildDSN(config)
 

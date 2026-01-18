@@ -6,7 +6,7 @@ require (
 	github.com/mattn/go-sqlite3 v1.14.22
 	github.com/uptrace/bun/dialect/sqlitedialect v1.2.16
 	github.com/webcore-go/lib-sql v0.1.2
-	github.com/webcore-go/webcore v0.0.5
+	github.com/webcore-go/webcore v0.0.6
 )
 
 require (
@@ -27,7 +27,6 @@ require (
 	github.com/pelletier/go-toml/v2 v2.1.0 // indirect
 	github.com/puzpuzpuz/xsync/v3 v3.5.1 // indirect
 	github.com/rivo/uniseg v0.2.0 // indirect
-	github.com/rogpeppe/go-internal v1.14.1 // indirect
 	github.com/sagikazarmark/locafero v0.3.0 // indirect
 	github.com/sagikazarmark/slog-shim v0.1.0 // indirect
 	github.com/sourcegraph/conc v0.3.0 // indirect
@@ -35,7 +34,6 @@ require (
 	github.com/spf13/cast v1.5.1 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/spf13/viper v1.17.0 // indirect
-	github.com/stretchr/testify v1.11.1 // indirect
 	github.com/subosito/gotenv v1.6.0 // indirect
 	github.com/tmthrgd/go-hex v0.0.0-20190904060850-447a3041c3bc // indirect
 	github.com/uptrace/bun v1.2.16 // indirect
