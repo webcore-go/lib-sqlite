@@ -6,7 +6,7 @@ require (
 	github.com/mattn/go-sqlite3 v1.14.34
 	github.com/uptrace/bun/dialect/sqlitedialect v1.2.16
 	github.com/webcore-go/lib-sql v0.1.12
-	github.com/webcore-go/webcore v0.0.14
+	github.com/webcore-go/webcore v0.0.18
 )
 
 require (
